@@ -1,1 +1,1 @@
-print ("Hola, me llamo Jose Miguel")
+print ("Me llamo Jose Miguel")
